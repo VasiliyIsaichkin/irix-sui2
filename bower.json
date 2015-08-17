@@ -1,6 +1,5 @@
 {
 	"name"           : "irix-sui2",
-	"ver":
 	"description"    : "Semantic UI 2 build for IRIX",
 	"main"           : [
 		"semantic.css",
